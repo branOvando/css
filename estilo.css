@@ -27,7 +27,7 @@ p{
     height: 150px;
     background-color: hsl(0,68%,63%);
 }
-*{/*selector ubniversal*/
+{selector ubniversal
     color: black;
     font-weight: bolder;
 }
@@ -59,4 +59,7 @@ p::first-letter{
     width: 100px;
     height: 100px;
     background-color: violet;
+}
+.padre.p{
+ color: red;
 }
